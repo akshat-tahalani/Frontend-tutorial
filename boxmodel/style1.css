@@ -1,0 +1,26 @@
+div{
+    height :50 px ;
+    width :10 px ;
+    /* background-color: pink;
+    border-width: 10px;
+    border-color: black;
+    border-style: dashed; */
+    border : 5px solid yellow;
+    border-left-color : rgb(253, 0, 42);
+    border-bottom-style: groove ;
+    border-radius: 10px;
+
+
+}
+
+h1{
+    color : blue ;
+    
+}
+
+div{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-block-color : white ;
+    margin-block-end: 10px;
+}

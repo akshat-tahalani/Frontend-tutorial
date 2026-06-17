@@ -1,0 +1,56 @@
+* {
+    font-family:'Franklin Gothic Medium' ;
+}
+h1{
+    color: #b92b27 ;
+}
+
+#login{
+    background-color: brown;
+    color: white;
+}
+#signup {
+    background-color: #b92b27;
+    color : white
+}
+
+.upvote{
+    color: brown;
+    background-color: blanchedalmond;
+}
+
+.answer{
+    background-color: #b92b27;
+    color: white;
+}
+
+ p a {
+    color : brown
+}
+
+nav li ul a {
+    background-color: black;
+    color: pink;
+}
+
+p+h3{
+    text-decoration: underline;
+    text-decoration-color: yellow ;
+}
+
+button:hover {
+    background-color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    
+}
+
+.username::placeholder {
+    color: gray;
+}
+
+.username:focus::placeholder {
+    color: transparent;
+}

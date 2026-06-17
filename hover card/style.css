@@ -1,0 +1,43 @@
+#container{
+    display: inline-block;
+    margin: 10px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+    box-shadow: 0 2px 4px black;
+    
+}
+
+h1{
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+p{
+    text-align: center;
+    margin: 10px 0;
+}
+
+#guy{
+    height: 200px;
+    background-image: url("guy.jpg");
+    background-size: cover;
+   
+}
+
+#girl{
+    height: 200px;
+    background-image: url("girll.png");
+    background-size: cover;
+    
+}
+
+#container:hover{
+    box-shadow: 0 8px 16px red;
+    
+}
+
+
+

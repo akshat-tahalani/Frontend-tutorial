@@ -1,0 +1,11 @@
+
+
+div{
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+    background-color:pink;
+    border: 2px solid black;
+    margin: 3px;
+    
+}
